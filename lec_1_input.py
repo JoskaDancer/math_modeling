@@ -1,10 +1,8 @@
-a = input ()
-print (a)
-
-a = input("  значение а: ")
+a = input()
 print(a)
-print( type (a))
 
-a = int(input( "введите число" ))
+a = input('Введите значение a: ')
+
 print(a)
-print ( type (a))
+
+print(type(a))

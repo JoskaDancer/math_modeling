@@ -1,21 +1,23 @@
 type
 
-type (3)
+type(3)
 
-print (type (3) )
+print(type(3))
 
-print (type (3.4))
+print(type(3.4))
 
-print( type ("молодец"))
+print(type('Молодец'))
 
-a = "молодец"
-print ( type (a))
+a = 'molodec'
+print(type(a))
 
-a = ["молодец", 1, 'круто', 6, 8]
-print (type (a))
+a = ['molodec', 1, 'kruto', 6, 8]
+print(type(a))
 
-print (type (True))
+print(type(True))
 
-print(type (False))
+print(type(False))
 
-print(type (None))
+print(type(None))
+
+print(print)
